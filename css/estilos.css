@@ -374,9 +374,9 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 50%;
+    height: 70%;
     position: relative;
-    width: 50%;
+    width: 70%;
   }
 
   .modal-content__close {
@@ -399,8 +399,8 @@
   /* CAROUSEL */
 
   .modal-content__slider {
-    width: 300px;
-    height: 200px;
+    width: 800px;
+    height: 800px;
     transform-style: preserve-3d;
     margin-bottom: 60px;
   }
@@ -431,7 +431,7 @@
   }
 
   .card img {
-    width: 64%;
+    width: 54%;
   }
 
   #radio-1:checked ~ .cards #card-1,
